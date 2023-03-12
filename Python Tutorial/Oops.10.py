@@ -1,0 +1,6 @@
+#.................Polymorphism.........
+
+# ability to take multiple forms.....
+
+print(5+6)
+print("5"+"6")
